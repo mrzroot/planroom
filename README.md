@@ -6,6 +6,8 @@
 
 ![Planroom dashboard with an emergency-fund goal, monthly savings projection, and planning questionnaire](docs/dashboard.webp)
 
+[Project overview and projection demo](docs/index.html) · open the HTML file locally to try it without Docker.
+
 ## Run it
 
 ```bash
